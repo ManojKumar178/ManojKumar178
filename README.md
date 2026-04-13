@@ -90,7 +90,7 @@ I'm also a **3× Scopus-indexed researcher** across medical imaging, health risk
 - Engineered an ANN-based lifestyle risk predictor achieving **97.75% obesity accuracy** and **95.56% stress prediction accuracy** (96.65% combined) on multi-class health datasets
 - Neural network with ReLU activation, dropout regularization, and Adam optimizer trained on **15+ behavioral and physiological features** (BMI, sleep quality, work stress, physical activity)
 - Delivers personalized wellness scores applicable to IT workplace programs and HR analytics
-- 📄 **Published:** AIM 2025 (Scopus-indexed)
+- 📄 **Published:** [AIM 2025 (Scopus-indexed)](https://thegrenze.com/index.php?display=page&view=journalabstract&absid=4417&id=8)
 
 ---
 
@@ -100,7 +100,7 @@ I'm also a **3× Scopus-indexed researcher** across medical imaging, health risk
 - Integrated IoT acoustic sensors with **7 ensemble ML models** (Gradient Boosting, Decision Tree, SVR, ARIMA, SARIMA, Holt-Winters, Linear Regression) on **6,480 urban observations**
 - Achieved **97% noise forecasting accuracy** (RMSE: 2.15); analyzed 7 environmental parameters (vehicle density, road surface, landscape configuration)
 - Deployed scalable ML-IoT pipeline via **ThingSpeak**; forecast a **29.51% annual noise increase** to inform smart-city planning
-- 📄 **Published:** ACT 2024 (Scopus-indexed)
+- 📄 **Published:** [ACT 2024 (Scopus-indexed)](https://thegrenze.com/index.php?display=page&view=journalabstract&absid=2892&id=8)
 
 ---
 
@@ -109,7 +109,7 @@ I'm also a **3× Scopus-indexed researcher** across medical imaging, health risk
 
 - Designed a multi-stage CNN-ResNet50 architecture achieving **93.6% test accuracy** in automated retinal disease classification across **5 severity grades** on fundus image datasets
 - Enables rapid clinical screening applicable to large-scale ophthalmological programs
-- 📄 **Published:** IJMTLM (Scopus-indexed)
+- 📄 **Published:** [IJMTLM (Scopus-indexed)](https://ijmtlm.org/index.php/journal/article/view/694)
 
 ---
 
